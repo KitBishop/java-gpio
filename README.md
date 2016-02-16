@@ -1,5 +1,4 @@
 # **java-gpio**
-# ADDED SOURCES AND BINARIES - STILL NO DOCUMENTATION - THIS WILL COME LATER
 Java wrapper classes and programs that make use of the **libnew-gpio** C/C++ code to control Onion Omega GPIO pins
 
 Provides the following components:
@@ -11,3 +10,5 @@ Provides the following components:
 
 ***NOTE***
 The **libnew-gpio** library and the **new-gpio** and **new-expled** programs referred to above may be found at https://github.com/KitBishop/new-gpio
+
+See the file **java-gpio.pdf** for documentation.
