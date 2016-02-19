@@ -1,6 +1,9 @@
-Current Version: 1.0.0
+Current Version: 1.0.1
 
 Version Change History
 ======================
+19 February 2016 - Version 1.0.1
+Fixed code bug in expansion led access
+
 14 February 2016 - Version 1.0.0
 First commital of code to GitHub

@@ -314,6 +314,9 @@ public class java_gpio {
                     System.out.printf("**ERROR** No data specified for: expled\n");
                     return false;
                 }
+            }
+            else if (operation == optype.expledstop) {
+		return true;
             } else if (argc > 1) {
                 if (args[1].equals("all")) {
                     if ((operation != optype.set)
